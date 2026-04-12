@@ -1,4 +1,4 @@
-# AM Switching Modulator (DSB-LC)
+# Amplitude Modulation (DSB-LC)
 
 An educational Double-Sideband Large Carrier (DSB-LC) Amplitude Modulation circuit designed for laboratory testing and signal analysis.
 
