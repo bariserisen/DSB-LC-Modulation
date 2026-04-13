@@ -14,7 +14,7 @@ This project demonstrates the generation of AM waves using a diode-based switchi
 ## Simulation & Signal Analysis
 The mathematical foundation of the circuit is based on the standard AM equation:
 
-s(t) = Ac [1 + ka m(t)] \cos(2pifct)
+s(t) = Ac [1 + ka m(t)].cos(2pifct)
 
 
 
